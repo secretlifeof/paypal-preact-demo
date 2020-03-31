@@ -10,7 +10,7 @@
 		"start": "next start"
 	},
 	"dependencies": {
-		"next": "^9.0.2",
+		"next": "^9.3.2",
 		"preact": "^10.0.0-rc.0"
 	},
 	"devDependencies": {
